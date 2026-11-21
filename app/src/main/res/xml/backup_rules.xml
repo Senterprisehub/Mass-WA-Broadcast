@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="database" path="mass_wa_broadcast_db" />
+    <exclude domain="database" path="mass_wa_broadcast_db-wal" />
+    <exclude domain="database" path="mass_wa_broadcast_db-shm" />
+    <exclude domain="file" path="campaign_media" />
+    <exclude domain="file" path="datastore/keystore_vault_prefs.preferences_pb" />
+</full-backup-content>

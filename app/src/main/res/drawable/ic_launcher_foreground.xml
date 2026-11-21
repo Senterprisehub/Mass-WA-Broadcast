@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bold geometric broadcast plane + dual broadcast waves centered within 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,36 L78,54 L30,72 L38,56 L58,54 L38,52 Z" />
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M62,31 C68,35 72,41 74,48 L69,48 C67,43 64,38 59,35 Z" />
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M62,77 C68,73 72,67 74,60 L69,60 C67,65 64,70 59,73 Z" />
+</vector>

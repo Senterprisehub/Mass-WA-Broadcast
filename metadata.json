@@ -1,0 +1,6 @@
+{
+  "name": "Mass WA Broadcast",
+  "description": "Offline-first pan-India WhatsApp & WhatsApp Business mass broadcast orchestrator with encrypted unlock vault, live contact/group pickers, and OEM health controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

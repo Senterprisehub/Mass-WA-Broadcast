@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mass WA Broadcast</string>
+    <string name="accessibility_service_label">Mass WA Broadcast Auto-Sender</string>
+    <string name="accessibility_service_description">Automates sending scheduled WhatsApp &amp; WhatsApp Business broadcasts and captures multi-selected chats/groups. Strictly scoped to WhatsApp only during active sessions; never reads banking, UPI, or other apps.</string>
+</resources>
